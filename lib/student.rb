@@ -71,6 +71,8 @@ def self.all_students_in_grade_9
     DB[:conn].execute(sql)
     all_in_9 
   end
+  
+end
 
 
 
