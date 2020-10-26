@@ -69,6 +69,7 @@ class Student
     
     DB[:conn].execute(sql)
     all_in_9 
+  end
 
 
 
