@@ -72,7 +72,6 @@ def self.all_students_in_grade_9
     all_in_9 
   end
   
-end
 
 
 
