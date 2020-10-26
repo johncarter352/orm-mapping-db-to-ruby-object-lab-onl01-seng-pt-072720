@@ -60,7 +60,6 @@ class Student
   end
 end
 
-  def self.all_students_in_grade_9
 
 
 
